@@ -4,7 +4,7 @@
 
 # 2 - Backend Phase Two
 
-## Prisma working. All the queries and mutaions working.
+## Prisma working. All the queries and mutaions working. JWT authentication working.
 
 # 3 - Frontend phase one
 
