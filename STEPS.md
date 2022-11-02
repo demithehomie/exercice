@@ -1,15 +1,15 @@
-# Backend Phase One 
+# 1 - Backend Phase One 
 
 ## Backend with Nest.js and GraphQL with the Prisma models and migrations ready to work. Docker container created and ready following the details on docker-compose.yaml. 
 
-# Backend Phase Two
+# 2 - Backend Phase Two
 
 ## Prisma working. All the queries and mutaions working.
 
-# Frontend phase one
+# 3 - Frontend phase one
 
 ## Login screens working with React, Chakra UI and Vite.
 
-# Final
+# 4 - Final
 
-# Every single thing working perfectly
+## Every single thing working perfectly
